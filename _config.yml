@@ -16,12 +16,15 @@
 title: Machine Learning Notes
 email: hust.chao@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Math Foundation, Python, Algorithm, Machine Learning...
+  Math Foundation<br/>
+  Python<br/>
+  Algorithm<br/>
+  Machine Learning...
 baseurl: "/MachineLearningNotes" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chao_hust
 github_username:  ccphantom
-repository: MachineLearningNotes/ccphantom.github.io
+repository: ccphantom/MachineLearningNotes
 
 # Build settings
 markdown: kramdown
